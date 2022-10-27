@@ -1,3 +1,3 @@
 # test-md
 
-<a href="http://google.com/">fffff</a>
+<a href="http://google.com/" target="_blank">fffff</a>
